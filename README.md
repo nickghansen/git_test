@@ -1,0 +1,1 @@
+This is Nick Hansen's first git project!
